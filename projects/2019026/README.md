@@ -7,11 +7,11 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [ΕΙΣΑΓΩΓΗ](https://github.com/GVR8/hci/tree/2019026/projects/2019026#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-1#dipanel) |
-| 2 | [Άσκηση προγραμματισμού BUTTON CONSEPT](https://github.com/GVR8/hci/tree/2019026/projects/2019026#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-1#dipanel) |
+| 2 | [Άσκηση προγραμματισμού BUTTON CONSEPT](https://codepen.io/2019026/pen/LYZmjEd#dipanel#dipanel) |
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | [Άσκηση προγραμματισμού Menu Pie](https://github.com/GVR8/hci/tree/2019026/projects/2019026#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-1#dipanel) |
 | 5 | Άσκηση γραμμής εντολών |
-| 6 | [Άσκηση προγραμματισμού]() |
+| 6 | [Άσκηση προγραμματισμού](https://codepen.io/2019026/pen/ExyMxNZ#dipanel) |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
