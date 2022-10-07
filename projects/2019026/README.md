@@ -30,9 +30,12 @@ H Ομάδα μου [XorisOnoma](https://github.com/XorisOnoma)
 
 | # | AM | GitHub Profile |
 |---|----|----------------|
-| 1 | 2015017 | [Τριαντάφυλλος Καραδήμος](https://github.com/p15kara) |
-| 2 | 2017089 | [Αργυρώ Μαριολη](https://github.com/p17mari) |
+| 1 | 2017089 | [Αργυρώ Μαριολη](https://github.com/p17mari)
+| 2 | 2015017 | [Τριαντάφυλλος Καραδήμος](https://github.com/p15kara) |
 | 3 | 2019026 | [Γεώργιος Βρούζος](https://github.com/p19vrou) |
-| 4 | 2015008 | [Ανδρέας Σιότας](https://github.com/siotasandreas) |
-| 5 | 2019021 | [Σταυρούλα Ανατολάκη](https://github.com/StavroulaAnatolaki) | 
-| 6 | 2015013 | [Παναγιώτης Παπαδιόχος](https://github.com/Xp15papaX) |
+| 4 | 2020171 | [p20oiko](https://github.com/p20oiko) |
+| 5 | 2020114 | [Πετράκη Χριστίνα](https://github.com/petrakhh)
+| 6 | 2015008 | [Ανδρέας Σιότας](https://github.com/siotasandreas) |
+| 7 | 2019021 | [Σταυρούλα Ανατολάκη](https://github.com/StavroulaAnatolaki) | 
+| 8 | 2015013 | [Παναγιώτης Παπαδιόχος](https://github.com/Xp15papaX) |
+| 9 | 2018009 | [Νίκος Τιλιγάδης](https://github.com/NikosTiligadis)
