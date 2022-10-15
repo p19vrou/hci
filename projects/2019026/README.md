@@ -39,3 +39,9 @@ H Ομάδα μου [XorisOnoma](https://github.com/XorisOnoma)
 | 7 | 2019021 | [Σταυρούλα Ανατολάκη](https://github.com/StavroulaAnatolaki) | 
 | 8 | 2015013 | [Παναγιώτης Παπαδιόχος](https://github.com/Xp15papaX) |
 | 9 | 2018009 | [Νίκος Τιλιγάδης](https://github.com/NikosTiligadis)
+
+
+## ΠΑΡΑΔΟΤΕΟ 2 | ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ - LINUX INSTALL
+
+Στο 2ο παραδοτέο έγινε εγκατάσταση Alpine Linux μέσω Virtual Machine. Εδώ φαίνεται η εγκατάστασή του:
+[![asciicast](https://asciinema.org/a/QLgz64wkB1MhGVtJSS0Ll73Vj.svg)](https://asciinema.org/a/QLgz64wkB1MhGVtJSS0Ll73Vj)
